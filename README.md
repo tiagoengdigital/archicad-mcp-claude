@@ -121,9 +121,16 @@ Abra **Claude ▸ Settings ▸ Developer ▸ Edit Config**
 ```json
 {
   "mcpServers": {
-    "Archicad-Tapir": {
-      "command": "C:\\ArchicadIA\\tapir-archicad-MCP\\venv\\Scripts\\python.exe",
-      "args": ["server.py"]
+    "ArchicadTapir": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "C:\\ArchicadIA\\tapir-archicad-MCP",
+        "python",
+        "-m",
+        "tapir_archicad_mcp.server"
+      ]
     }
   }
 }
