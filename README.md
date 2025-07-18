@@ -171,8 +171,6 @@ O Claude utilizará as ferramentas registradas pelo Tapir via MCP.
 
 - Repositório original por [SzamosiMate](https://github.com/SzamosiMate/tapir-archicad-MCP)
 - Claude IA + Model Context Protocol por [Anthropic](https://www.anthropic.com/)
-- Inspiração: Integração Bonsai BIM + Claude Desktop por @JotaDeRodriguez
-- Tutorial por @TiagoMendonca
 
 **Licença MIT** – Este projeto é aberto. Sinta-se à vontade para criar sua versão, enviar melhorias ou abrir PRs!
 
