@@ -32,10 +32,7 @@ O plugin Tapir permite que o Archicad seja usado com o Model Context Protocol (M
 
 | Item     | Versão mínima | Download |
 | -------- | ------------- | -------- |
-| Archicad | 27+           |          |
-
-| [https://graphisoft.com/downloads](https://graphisoft.com/downloads) |      |                                                                                |
-| -------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------ |
+| Archicad | 27+           | [https://graphisoft.com/downloads](https://graphisoft.com/downloads) | 
 | Tapir                                                                | –    | [https://github.com/orchitecture/tapir](https://github.com/orchitecture/tapir) |
 | Python                                                               | 3.12 | [https://www.python.org/downloads/](https://www.python.org/downloads/)         |
 | Claude Desktop                                                       | 0.9+ | [https://claude.ai/download](https://claude.ai/download)                       |
