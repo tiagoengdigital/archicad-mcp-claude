@@ -8,17 +8,17 @@ Ligar o Archicad a modelos de linguagem (Claude, ChatGPT, etc.) via Tapir + MCP,
 
 ## Índice
 
-1. [Visão geral](##1-Visão-geral)
-2. [Pré-requisitos](##2-Pré--requisitos)
-3. [Clonar repositório Tapir Archicad MCP](##3-Clonar-repositório-Tapir-Archicad-MCP)
-4. [Criar e ativar ambiente Python](##4-Criar-e-ativar-ambiente-Python)
-5. [Instalar dependências](##5-Instalar-dependências)
-6. [Testar servidor MCP](##6-Testar-servidor-MCP)
-7. [Executar server.py no Archicad](##7-Executar-server.py-no-Archicad)
-8. [Configurar o Claude Desktop](##8-Configurar-o-Claude-Desktop)
-9. [Fluxo de uso](##9-Fluxo-de-uso)
-10. [Problemas comuns](##10-Problemas-comuns)
-11. [Créditos](##11-Créditos)
+1. [Visão geral](#1-Visão-geral)
+2. [Pré-requisitos](#2-Pré--requisitos)
+3. [Clonar repositório Tapir Archicad MCP](#3-Clonar-repositório-Tapir-Archicad-MCP)
+4. [Criar e ativar ambiente Python](#4-Criar-e-ativar-ambiente-Python)
+5. [Instalar dependências](#5-Instalar-dependências)
+6. [Testar servidor MCP](#6-Testar-servidor-MCP)
+7. [Executar server.py no Archicad](#7-Executar-server.py-no-Archicad)
+8. [Configurar o Claude Desktop](#8-Configurar-o-Claude-Desktop)
+9. [Fluxo de uso](#9-Fluxo-de-uso)
+10. [Problemas comuns](#10-Problemas-comuns)
+11. [Créditos](#11-Créditos)
 
 ---
 
